@@ -8,6 +8,6 @@ Heres a way to view the responses to the questions:
 
 [Q1](Q1.html) Tim Berners Lee and image
 
-[Q2](Q2.html) ...
+[Q2](Q2.html) Big header
 
-[Q3](Q3.html) ...
+[Q3](Q3.html) Tim Berner semantic markup article
